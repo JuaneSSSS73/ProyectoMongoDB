@@ -1,0 +1,2 @@
+{"_id":{"$oid":"67c0a1566a01d6e875364253"},"libro_id":"67bfc938f8b1b87b4646b553","estado":"avaliable"}
+{"_id":{"$oid":"67c0a1566a01d6e875364254"},"libro_id":"67bfc938f8b1b87b4646b554","estado":"borrowed"}
