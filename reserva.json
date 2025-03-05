@@ -1,0 +1,2 @@
+{"_id":{"$oid":"67c0a1566a01d6e875364257"},"usuario_id":{"$oid":"67bfcd4bf8b1b87b4646b559"},"ejemplar_id":{"$oid":"67bfc938f8b1b87b4646b553"},"fecha_recibir":1997,"fecha_limite_recibir":1995,"puesto_reserva":1}
+{"_id":{"$oid":"67c0a1566a01d6e875364258"},"usuario_id":{"$oid":"67bfcd4bf8b1b87b4646b558"},"ejemplar_id":{"$oid":"67bfc938f8b1b87b4646b553"},"fecha_recibir":"2025-02-26","fecha_limite_recibir":"2025-02-28","puesto_reserva":2}
