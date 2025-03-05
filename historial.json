@@ -1,0 +1,1 @@
+{"_id":{"$oid":"67c0a1566a01d6e875364259"},"ejemplar_id":{"$oid":"67bfc938f8b1b87b4646b553"},"usuario_id":{"$oid":"67bfcd4bf8b1b87b4646b558"},"fecha_prestamo":"2025-02-02","fecha_devolucion":"2025-03-16","estado":"finalizado","devolucion":{"fecha_real_devolucion":"2025-03-14","estado_libro":"Bueno","estado":"Completado"}}
