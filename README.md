@@ -48,6 +48,7 @@ o eliminar usuarios
             <th>Nombre</th>
             <th>Email</th>
             <th>Número</th>
+           <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -56,6 +57,7 @@ o eliminar usuarios
             <td>{{ usuario.nombre }}</td>
             <td>{{ usuario.email }}</td>
             <td>{{ usuario.numero }}</td>
+           
             <td>
                 <a href="{{ url_for('editar', id=usuario._id) }}" class="btn btn-warning btn-sm">Editar</a>
                 <a href="{{ url_for('eliminar', id=usuario._id) }}" class="btn btn-danger btn-sm" onclick="return confirm('¿Seguro que quieres eliminar este usuario?')">Eliminar</a>
