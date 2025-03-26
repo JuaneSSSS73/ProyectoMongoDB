@@ -111,7 +111,7 @@ Para ejecutarlo se utiliza el servidor Flask en modo debug, lo que facilita la d
 - Branch principal: Master
 -Base de datos: MongoDB
 
-👨‍💻 Desarrollado por
+##👨‍💻 Desarrollado por
 📌 Juan Esteban Montoya Cadavid
 ✉️ Contacto: juanesalv443@gmail.com
 
