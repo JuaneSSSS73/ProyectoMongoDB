@@ -1,4 +1,4 @@
-# # 📝 Formulario con MongoDB
+## 📝 Formulario con MongoDB
 
 ## 📖 Descripción del Proyecto
 Este proyecto fue desarrollado en la Clase de Git y GitHub del profesor Juan Pablo Jiménez, donde se nos pedía desarrollar un CRUD con una base de datos de MongoDB,
@@ -64,7 +64,8 @@ o eliminar usuarios
         {% endfor %}
     </tbody>
 </table>
-### 2️⃣ Agregar un usuario
+
+### 2️⃣Agregar un usuario
 El archivo de index.html permite ingrear nombre, email y numero de teléfono de un usuario y almacernarlo en MongoDB
 <form action="/agregar" method="post">
     <div class="mb-3">
