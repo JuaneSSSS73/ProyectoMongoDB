@@ -33,12 +33,12 @@ pip install -r requirements.txt
 ## 📂 Estructura del Proyecto
 📦 FormularioMySQL  
  ┣ 📂 src/
- ┣ ┣📂 templates/
-   ┃ ┣ 📜 editar.html  
-   ┃ ┣ 📜 index.html  
+ ┣ ┃📂 templates/
+   ┃ 📜 editar.html  
+   ┃ 📜 index.html  
  ┣ 📜 app.py  
  ┣ 📂 __pycache__
- ┣ ┣ 📜 database.cpython
+  ┃📜 database.cpython
  
 ## 🗄️Modelo de Base de Datos (MySQL)
 La base de datos en MySQL almacena la información de los usuarios en la siguiente estructura:
